@@ -1,0 +1,554 @@
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+ /* header */
+ header {
+    padding: 5px 0 20px;
+ }
+ .logo {
+    font-size: 27px;
+ }
+ .m_input {
+   width: 240px;
+ }
+ .m_dialog {
+   margin-right: 60px;
+ }
+ .cm_cnt {
+   width: 100%;
+}
+.ch_btn{
+   margin-left: 2px !important;
+}
+.m_head {
+   padding-right: 0;
+}
+
+.m_input {
+   font-size: 16px;
+   width: 200px;
+}
+.m_body button {
+   padding: 10px 45px;
+   font-size: 16px;
+}
+/* bannner */
+.s_h1 {
+   font-size: 38px;
+}
+.bt_top {
+   margin: 140px 0 140px;
+ }
+ .s_p {
+   line-height: 25px;
+
+ }
+ .cm_btn {
+   padding: 12px 14px;
+ }
+  /* slider part */
+  .cm_h1 {
+   font-size: 28px;
+   margin: 15px 0 30px;
+ }
+  .si_item {
+   margin-top: 70px;
+ }
+   /* about us */
+   .about {
+      margin-bottom: 80px;
+    }
+    .ab_text{
+      margin-top: 30px;
+    }
+    .ab_h1 {
+      margin: 20px 0 30px;
+    }
+    .p2 {
+      margin: 20px 0 40px;
+    }
+    .cm_p {
+      line-height: 21px;
+      word-spacing: 1px;
+    }
+    .ab_btn {
+      margin: 0 55px;
+    }
+      /* recent */
+   .re_h1 {
+      margin: 10px 0 65px;
+   }
+   .p_allitem {
+      margin-top: 40px;
+   }
+   .n_menu li {
+      margin: 0 ;
+      font-size: 14px;
+   }
+   .n_menu li a {
+      padding: 15px 6px;
+   }
+    /* why choose */
+    .choose {
+      padding-bottom: 60px;
+    }
+    .cu_head {
+      padding: 0 0 25px;
+    }
+    .cu_head h1 {
+      margin-top: 5px;
+    }
+    .ch_it {
+      margin-top: 26px;
+    }
+    .ch_p {
+      padding: 12px 0 15px;
+    }
+      /* nipro */
+      .nipro {
+        height: 170px; 
+        margin-bottom: 20px;
+      }
+      .te_btn {
+        margin: 23px 82px;
+      }
+    .ni_cont p {
+      padding: 10px 5px;
+    }
+      /* protfolio section */
+      .prf_detail {
+        padding: 20px 25px;
+      }
+      .prf_text {
+        padding-top: 20px;
+      }
+      .prf_p {
+        margin: 8px 0 4px;
+      }
+      .prf_pbt {
+        margin: 17px 0;
+      }
+      .prf_sbtn{
+        margin-top: 10px;
+        text-align: center;
+        writing-mode: inherit;
+        text-orientation: mixed;
+      }
+      .prf_cbt {
+        padding: 5px 5px;
+      }
+    /* contact us */
+    .contact {
+      padding-bottom: 50px;
+    }
+    .cin_form {
+      margin: 70px 55px 0px;
+    }
+    .c_form h1 {
+      margin: -22px 14%;
+    }
+    .inp1 {
+      margin-right: 0;
+    }
+    .inp2 {
+      margin-left: 0;
+    }
+    /* footer */
+    address {
+      padding-bottom: 40px;
+    }
+    .sm_icon li a {
+      font-size: 19px;
+      padding: 10px 10px;
+    }
+    .sm_icon li:last-child a {
+      padding: 10px 6px;
+    }
+    /* m footer */
+  .ft_cp {
+    text-align: center;
+  }
+  .fbtm {
+    margin-right: 36px;
+  }
+  .fbtm li a{
+    font-size: 11px;
+    margin-right: 0;
+    margin: 0 ;
+  }
+
+}
+
+/* Small devices (landscape phones, 576px and 767px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header */
+  header {
+    padding: 28px 0 30px;
+  }
+  .m_input {
+   width: 390px;
+ }
+ .m_dialog {
+   margin-right: 90px;
+ }
+ .cm_cnt {
+   width: 93%;
+}
+.ch_btn{
+   margin-left: 2px !important;
+}
+.m_head {
+   padding-right: 0;
+}
+/* bannner */
+.s_h1 {
+   font-size: 38px;
+}
+.bt_top {
+   margin: 150px 0 150px;
+ }
+ .cm_btn {
+   padding: 13px 25px;
+ }
+ /* slider part */
+ .cm_h1 {
+   font-size: 28px;
+   margin: 20px 0 40px;
+ }
+  .si_item {
+   margin-top: 80px;
+ }
+  /* about us */
+  .about {
+   margin-bottom: 100px;
+ }
+ .ab_text{
+   margin-top: 30px;
+ }
+  .ab_h1 {
+      margin: 20px 0 30px;
+    }
+ .p2 {
+   margin: 20px 0 40px;
+ }
+ .cm_p {
+   line-height: 21px;
+   word-spacing: 1px;
+ }
+  /* recent */
+  .re_h1 {
+   margin: 15px 0 80px;
+ }
+ .p_allitem {
+   margin-top: 40px;
+ }
+ .n_menu li {
+   margin: 0 1px;
+ }
+ .n_menu li a {
+   padding: 15px 6px;
+ }
+   /* why choose */
+   .choose {
+    padding-bottom: 60px;
+  }
+   .cu_head {
+     padding: 0 0 20px;
+    }
+  
+    .cu_head h1 {
+      margin-top: 10px;
+    }
+    .ch_p {
+      padding: 20px 0 30px;
+    }
+     /* price */
+  .pr_detail {
+    padding: 30px 20px 35px;
+  }
+  .pr_de {
+    padding-bottom: 0;
+  }
+  .pr_btn {
+    padding: 15px 30px;
+  }
+  /* nipro */
+  .nipro {
+    margin-bottom: 30px;
+    height: 90px;
+  }
+  .ni_cont p {
+    padding: 30px 5px;
+  }
+  .te_btn {
+    margin: 23px 0;
+  }
+  /* protfolio section */
+  .prf_detail {
+    padding: 20px 25px;
+  }
+  .prf_text {
+    padding-top: 20px;
+  }
+  .prf_p {
+    margin: 8px 0 4px;
+  }
+  .prf_pbt {
+    margin: 17px 0;
+  }
+  .prf_sbtn{
+    margin-top: 10px;
+    text-align: center;
+    writing-mode: inherit;
+    text-orientation: mixed;
+  }
+  .prf_cbt {
+    padding: 45px 30px;
+  }
+/* contact us */
+.contact {
+  padding-bottom: 60px;
+}
+.cin_form {
+  margin: 70px 55px 0px;
+}
+.c_form h1 {
+  margin: -22px 30%;
+}
+.inp1 {
+  margin-right: 0;
+}
+.inp2 {
+  margin-left: 0;
+}
+/* m footer */
+address {
+  padding-bottom: 50px;
+}
+.ft_cp {
+  text-align: center;
+}
+.fbtm {
+  margin-right: 100px;
+}
+.fbtm li a{
+  margin-right: 0;
+  margin: 0 ;
+}
+ }
+
+/* Medium devices (tablets, 768px and 991px) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+ /* header */
+   header {
+      padding: 20px 0 25px;
+    }
+    .m_input {
+      width: 390px;
+    }
+    .m_dialog {
+      margin-right: 90px;
+    }
+    .cm_cnt {
+      width: 93%;
+   }
+   .ch_btn{
+      margin-left: 2px !important;
+   }
+   .m_head {
+      padding-right: 0;
+   }
+ 
+ /* banner */
+ .s_h1 {
+    font-size: 55px;
+ }
+ .bt_top {
+   margin: 170px 0 180px;
+ }
+ /* slider part */
+ .si_item {
+   margin-top: 95px;
+ }
+ /* about us */
+ .about {
+   margin-bottom: 110px;
+ }
+ .ab_text{
+   margin-top: 30px;
+ }
+ .ab_h1 {
+   margin: 10px 0 35px;
+ }
+ .p2 {
+   margin: 20px 0 40px;
+ }
+
+ /* recent */
+ .re_h1 {
+   margin: 15px 0 80px;
+ }
+ .p_allitem {
+   margin-top: 40px;
+ }
+  /* why choose */
+  .choose {
+    padding-bottom: 80px;
+  }
+  .cu_head {
+   padding: 0 0 50px;
+ }
+ .cu_head h1{
+   margin-top: 15px;
+ }
+ /* price */
+ .pr_detail {
+  padding: 20px 20px 30px;
+}
+.pr_de {
+  padding-bottom: 0;
+}
+/* protfolio section */
+.prf_detail {
+  padding: 20px 25px;
+}
+.prf_text {
+  padding-top: 20px;
+}
+.prf_p {
+  margin: 8px 0 4px;
+}
+.prf_pbt {
+  margin: 17px 0;
+}
+
+.prf_sbtn{
+  margin-top: 10px;
+  text-align: center;
+  writing-mode: inherit;
+  text-orientation: mixed;
+}
+.prf_cbt {
+  padding: 45px 30px;
+}
+/* contact us */
+.contact {
+  padding-bottom: 80px;
+}
+.cin_form {
+  margin: 80px 70px 10px;
+}
+.c_form h1 {
+  margin: -22px 35%;
+}
+.inp1 {
+  margin-right: 0;
+}
+.inp2 {
+  margin-left: 0;
+}
+/* m footer */
+address {
+  padding-bottom: 70px;
+}
+.fbtm li a {
+  margin-right: 0;
+}
+.ft_cp {
+  padding: 0 15px;
+}
+}
+
+/* Large devices (desktops, 992px and 1199px) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/* header start */
+.cm_cnt {
+   width: 93%;
+}
+.m_dialog {
+   margin-right: 0px;
+} 
+.m_input {
+   width: 410px;
+}
+.ch_btn{
+   margin-left: 2px !important;
+}
+.m_head {
+   padding-right: 0;
+}
+/* slider part */
+.si_item {
+   margin-top: 100px;
+}
+/* about us */
+.ab_h1 {
+   font-size: 27px;
+   margin: 10px 0 30px;
+ }
+.cm_p {
+   line-height: 20px;
+   word-spacing: 0px;
+   font-size: 15px;
+ }
+ .p2 {
+   margin: 10px 0 15px;
+ }
+ /* recent */
+ .re_h1 {
+   margin: 15px 0 90px;
+ }
+ /* why choose */
+ .cu_head {
+   padding: 0 0 70px;
+ }
+ /* protfolio section */
+ .prf_sbtn {
+  height: 400px;
+}
+.pr_text p {
+  margin: 0;
+}
+.pr_p{
+  padding-bottom: 23px;
+}
+.prf_cbt {
+  padding: 67px 18px;
+}
+/* contact us */
+.cin_form {
+  margin: 100px 100px 10px;
+}
+.inp1 {
+  margin-right: 71px;
+}
+.c_form h1 {
+  margin: -22px 38%;
+}
+.cm_form {
+  margin-bottom: 40px;
+}
+.cnt_btn{
+  padding: 16px 26px;
+}
+}
+
+/* Extra large devices (large desktops, 1200px and 1399px) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* about us */
+.cm_p {
+   line-height: 24px;
+ }
+ .inp1 {
+  margin-right: 75px;
+}
+/* contact us */
+.cnt_btn{
+  padding: 16px 26px;
+}
+}
+
+/* Extra Extra  devices (large desktops, 1400px and up) */
+@media (min-width: 1400x) { 
+
+}
